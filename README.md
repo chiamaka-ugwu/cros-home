@@ -1,7 +1,7 @@
 # CROS
 # Contribution 🤝
 
-# We welcome contributions from the community! If you'd like to contribute to O.K Chinda. We have these base guidelines:
+# We welcome contributions from the community! If you'd like to contribute to CROS. We have these base guidelines:
 
 Fork the repository
 Create a new branch for your feature or bug fix
