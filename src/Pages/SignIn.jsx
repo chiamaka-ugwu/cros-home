@@ -46,9 +46,15 @@ const SignIn = () => {
           </div>
           <p className="text-center">or sign in with</p>
           <div className="social_icons flex justify-center items-center space-x-3 mt-2">
-            <FcGoogle style={style} />
-            <img src={microsoft} alt="" style={style} />
-            <BsGithub style={style} />
+            <button>
+              <FcGoogle style={style} />
+            </button>
+            <button>
+              <img src={microsoft} alt="" style={style} />
+            </button>
+            <button>
+              <BsGithub style={style} />
+            </button>
           </div>
         </div>
       </div>
