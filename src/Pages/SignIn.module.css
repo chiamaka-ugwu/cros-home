@@ -1,9 +1,0 @@
-.card {
-  max-width: 600px;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-  background-color: teal;
-  /* margin: 0 400px; */
-}

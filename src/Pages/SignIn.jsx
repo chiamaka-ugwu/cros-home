@@ -19,7 +19,7 @@ const SignIn = () => {
         <p className="text-secondary mb-2 max-[600px]:text-[14px]">
           Please enter your credentials to continue
         </p>
-        <div className="flex flex-col w-6/12 gap-5 max-[600px]:gap-3">
+        <div className="flex flex-col w-5/12 gap-5 max-[600px]:gap-3">
           <Input
             placeholder={"Email address"}
             type={"email"}
@@ -36,13 +36,13 @@ const SignIn = () => {
             Forgot your password?
           </p>
         </div>
-        <Button className="px-[15px] py-2 rounded-md text-white bg-primary">
+        <Button className="px-[60px] py-2 rounded-md text-white bg-primary">
           Sign in
         </Button>
         <div className="space-y-2 mt-2">
           <div className="flex">
             <p>Don’t have an account?</p>
-            <Link color="text-primary">Sign up</Link>
+            <Link className="text-primary">Sign up</Link>
           </div>
           <p className="text-center">or sign in with</p>
           <div className="social_icons flex justify-center items-center space-x-3 mt-2">
