@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .bg-hero {
+    background-image: url(./assets/images/uniport-gate.png);
+    background-size: 100% 100%;
+  }
+}
